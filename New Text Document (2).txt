@@ -10,9 +10,7 @@ public class Subject {
 		
 	}
 	public Subject(int id,String name, int marks) {
-		this.setId(id);
-		this.setName(name);
-		this.setMarks(marks);
+		
 	}
 	public int getId() {
 		return id;
